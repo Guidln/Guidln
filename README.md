@@ -6,8 +6,12 @@ I am a student passionate about technology, currently studying Information Syste
 
 I currently work in the logistics area, where I manage transport and freight forwarding operations. I am in a period of career transition to the IT market, seeking to align my passion for technology with my professional trajectory.
 
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guidln&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guidln&hide_progress=true)
+
+</div>
 
 ## 🛠️ Languages and Tools I Use
 <div align="center">
