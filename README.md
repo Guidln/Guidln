@@ -23,3 +23,15 @@ I currently work in the logistics area, where I manage transport and freight for
   <a href = "mailto:gbarrostoledobatista2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barros-t-batista-8756341b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+<div>
+  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
+ <h3> 📄 Too much information</h3>
+ 
+  - I am 19 years old.
+
+  - I live in Osasco-SP.
+
+  - My biggest dream is to work with what I love (programming) and practice abroad.
+ </div>
