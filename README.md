@@ -1,3 +1,5 @@
+![1680786677554](https://github.com/Guidln/Guidln/assets/68200341/74fe949b-5847-48e3-9fda-993ffc17dec3)
+
 ## Hello world, my name is Guilherme Toledo!👋🌎
 
 - Jovem apaixonado por tecnologia.
@@ -6,8 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guidln&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guidln&hide_progress=true)
 
-
 <div style="display: inline_block"><br>
+  <h3>Languages ​​I practice</h3>
   <img align="center" alt="Guidln-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guidln-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Guidln-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +20,7 @@
  ##
  
 <div> 
+  <h3>Contact wiht me :smiley:</h3>
   <a href="https://www.instagram.com/guilherme_barros7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gbarrostoledobatista2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barros-t-batista-8756341b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
