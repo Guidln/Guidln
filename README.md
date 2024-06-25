@@ -1,9 +1,6 @@
-![1680786677554](https://github.com/Guidln/Guidln/assets/68200341/74fe949b-5847-48e3-9fda-993ffc17dec3)
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Guilherme Barros" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hi+world%2C+I'm+Guilherme Barros" />
 </h1>
-
-## Hello world, my name is Guilherme Toledo!👋🌎
 
 - Jovem apaixonado por tecnologia.
 - Em transição de carreira e buscando uma oportunidade para ingressar no mercado!
