@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hi+world%2C+I'm+Guilherme Barros" />
-</h1>
-
 I am a student passionate about technology, currently studying Information Systems at Anhembi Morumbi University. My main focus is software development, an area in which I have sought to improve my skills. Additionally, I have experience in networks and server administration.
 
 I currently work in the logistics area, where I manage transport and freight forwarding operations. I am in a period of career transition to the IT market, seeking to align my passion for technology with my professional trajectory.
