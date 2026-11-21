@@ -16,7 +16,7 @@ I am constantly seeking opportunities to expand my technical knowledge, take on 
  
 <div> 
   <h3>🤝 Let's Connect</h3>
-  <a href="www.linkedin.com/in/guilhermebtoledo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilhermebtoledo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
