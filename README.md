@@ -1,6 +1,10 @@
-I am a student passionate about technology, currently studying Information Systems at Anhembi Morumbi University. My main focus is software development, an area in which I have sought to improve my skills. Additionally, I have experience in networks and server administration.
+I am a technology professional currently pursuing a degree in Database Technology at Mackenzie Presbyterian University, with a background in Information Systems and a strong interest in software development, data engineering, and analytics.
 
-I currently work in the logistics area, where I manage transport and freight forwarding operations. I am in a period of career transition to the IT market, seeking to align my passion for technology with my professional trajectory.
+I currently work as an IT Support Analyst (N2) at SRM Asset, where I support critical financial systems, troubleshoot technical issues, work with SQL queries, and collaborate with different technology teams to ensure system reliability and operational efficiency.
+
+My experience has strengthened my problem-solving skills, analytical thinking, and ability to work in dynamic environments. I am continuously expanding my knowledge in programming, databases, cloud computing, automation, and data technologies, aiming to build a career at the intersection of technology, data, and financial services.
+
+I am passionate about learning, solving complex problems, and transforming technology into practical solutions that generate value.
 
 ## 🛠️ Languages and Tools I Use
 <div align="center">
@@ -22,7 +26,7 @@ I currently work in the logistics area, where I manage transport and freight for
   <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
  <h3> 📄 Too much information</h3>
  
-  - I´m 21 years old.
+  - I´m 22 years old.
 
   - I live in Osasco-SP.
 
