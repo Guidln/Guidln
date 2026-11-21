@@ -6,12 +6,6 @@ Through my academic background and professional experience, I have been developi
 
 I am constantly seeking opportunities to expand my technical knowledge, take on new challenges, and contribute to projects that turn complex problems into practical and scalable solutions.
 
-## 🛠️ Languages and Tools I Use
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql" /><br>
-</div>
-
  ##
  
 <div> 
