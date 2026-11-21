@@ -1,10 +1,10 @@
-I am a technology professional currently pursuing a degree in Database Technology at Mackenzie Presbyterian University, with a background in Information Systems and a strong interest in software development, data engineering, and analytics.
+I am a technology professional currently pursuing degrees in Information Systems at Anhembi Morumbi University and Database Technology at Mackenzie Presbyterian University. I am passionate about software development, data engineering, database management, and technology-driven solutions.
 
-I currently work as an IT Support Analyst (N2) at SRM Asset, where I support critical financial systems, troubleshoot technical issues, work with SQL queries, and collaborate with different technology teams to ensure system reliability and operational efficiency.
+I currently work in IT Support (N2) at SRM Asset, a financial services company, where I support critical systems, troubleshoot technical issues, perform SQL queries, and collaborate with different teams to maintain system reliability and operational efficiency.
 
-My experience has strengthened my problem-solving skills, analytical thinking, and ability to work in dynamic environments. I am continuously expanding my knowledge in programming, databases, cloud computing, automation, and data technologies, aiming to build a career at the intersection of technology, data, and financial services.
+Through my academic background and professional experience, I have been developing skills in programming, databases, data analysis, automation, infrastructure, and software engineering. I am particularly interested in the intersection of technology and financial services, where data and innovation can drive better decisions and improve business processes.
 
-I am passionate about learning, solving complex problems, and transforming technology into practical solutions that generate value.
+I am constantly seeking opportunities to expand my technical knowledge, take on new challenges, and contribute to projects that turn complex problems into practical and scalable solutions.
 
 ## 🛠️ Languages and Tools I Use
 <div align="center">
